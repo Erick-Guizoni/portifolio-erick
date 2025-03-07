@@ -1,0 +1,13 @@
+main{
+    width: 5vw;
+    height: 70vh;
+
+    background-color: blue;
+}
+
+#img-main{
+    width: 60vw;
+    height: 20vh;
+
+    background-color: rgb(72, 72, 158);
+}
